@@ -1,23 +1,26 @@
-#  Fake News Detection with Streamlit
+# 📰 Fake News Detector with Streamlit
 
-This project detects whether a given news article is **Real** or **Fake** using Machine Learning and NLP.
+A simple machine learning project that classifies news articles as **Real** or **Fake** using NLP and Scikit-learn.
 
-## 🔧 Technologies
+## 🚀 Features
+- Paste any news text and get a prediction
+- Trained on real-world Fake and True news data
+- Built with Streamlit for web interface
+
+## 📦 Dataset
+- Source: [Kaggle Dataset](https://www.kaggle.com/clmentbisaillon/fake-and-real-news-dataset)
+- Files: `Fake.csv`, `True.csv`
+
+## 🔧 Tech Stack
 - Python
 - Streamlit
 - Scikit-learn
 - TfidfVectorizer
 - PassiveAggressiveClassifier
 
-## 🚀 Run Locally
+## ▶️ Run Locally
 ```bash
-git clone https://github.com/yourusername/fake-news-detector.git
+git clone https://github.com/adityaparichha/fake-news-detector.git
 cd fake-news-detector
 pip install -r requirements.txt
 streamlit run app.py
-📦 Dataset
-Source: Kaggle - Fake and Real News Dataset
-https://www.kaggle.com/datasets/clmentbisaillon/fake-and-real-news-dataset
-
-
-Files: Fake.csv and True.csv
