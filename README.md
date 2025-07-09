@@ -15,3 +15,7 @@ git clone https://github.com/yourusername/fake-news-detector.git
 cd fake-news-detector
 pip install -r requirements.txt
 streamlit run app.py
+📦 Dataset
+Source: Kaggle - Fake and Real News Dataset
+
+Files: Fake.csv and True.csv
