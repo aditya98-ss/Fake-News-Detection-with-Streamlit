@@ -17,5 +17,7 @@ pip install -r requirements.txt
 streamlit run app.py
 📦 Dataset
 Source: Kaggle - Fake and Real News Dataset
+https://www.kaggle.com/datasets/clmentbisaillon/fake-and-real-news-dataset
+
 
 Files: Fake.csv and True.csv
