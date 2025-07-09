@@ -20,7 +20,7 @@ A simple machine learning project that classifies news articles as **Real** or *
 
 ## ▶️ Run Locally
 ```bash
-git clone https://github.com/adityaparichha/fake-news-detector.git
+git clone https://github.com/aditya98-ss/Fake-News-Detection-with-Streamlit.git
 cd fake-news-detector
 pip install -r requirements.txt
 streamlit run app.py
